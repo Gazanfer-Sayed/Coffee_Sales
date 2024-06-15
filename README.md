@@ -6,6 +6,7 @@ This Excel-based project delves into a detailed data analysis of a coffee shopâ€
 
 - **Data Compilation**: Aggregation of sales and customer data into a single orders worksheet through utilization and combination of advanced Excel functions such as Xlookup, IF and Index Match.  
 - **Data Cleaning**: Rigorous cleaning and validation to ensure accuracy and reliability.
+- **Data Analyzing**: This project leverages the powerful data analysis capabilities of Excelâ€™s pivot tables and pivot charts to uncover hidden patterns and insights.
 - **Data Presentation**: Creation of an engaging and informative dashboard that visually represents sales trends, customer behavior, and other key metrics.
 
 The dashboard highlights key business metrics through dynamic visual elements such as line graphs, bar charts, and dropdown menus. The use of pivot tables and charts allows for easy manipulation and examination of data, providing valuable insights into sales trends and customer preferences.
