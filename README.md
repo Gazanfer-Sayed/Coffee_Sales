@@ -2,7 +2,7 @@
 
 
 **Project Description**:
-This Excel-based project delves into a detailed data analysis of a coffee shop’s operations & sales. The project encompasses:
+In this Excel-based project, I conudcted an in depth data analysis of a coffee shop’s sales to identify trends & patterns. The project encompasses:
 
 - **Data Compilation**: Aggregation of sales and customer data into a single orders worksheet through utilization and combination of advanced Excel functions such as Xlookup, Index Match along with IF statements.  
 - **Data Cleaning**: Rigorous cleaning and validation to ensure accuracy and reliability.
@@ -11,7 +11,7 @@ This Excel-based project delves into a detailed data analysis of a coffee shop�
 
 The dashboard highlights key business metrics through dynamic visual elements such as line graphs, bar charts, and dropdown menus. The use of pivot tables and charts allows for easy manipulation and examination of data, providing valuable insights into sale trends and customer preferences.
 
-This Excel-based data analysis of the coffee shop's sales & operations can answer several key business questions such as:
+This Excel-based data analysis of the coffee shop's sales can answer several key business questions such as:
 
 1. How do sales fluctuate over time?
 
