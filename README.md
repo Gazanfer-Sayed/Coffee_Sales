@@ -2,7 +2,7 @@
 
 
 **Project Description**:
-In this Excel-based project, I conudcted an in depth data analysis of a coffee shop’s sales to identify trends & patterns. The project encompasses:
+In this Excel-based project, I conducted an in depth data analysis of a coffee shop’s sales to identify trends & patterns. The project encompasses:
 
 - **Data Compilation**: Aggregation of sales and customer data into a single orders worksheet through utilization and combination of advanced Excel functions such as Xlookup, Index Match along with IF statements.  
 - **Data Cleaning**: Rigorous cleaning and validation to ensure accuracy and reliability.
